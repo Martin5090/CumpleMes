@@ -1,0 +1,21 @@
+body {
+    font-family: cursive; /* Cambiar la fuente de la letra */
+    background-image: url('/assent/img/pattern-background-love-background-valentine-day-good-for-wallpaper-website-background-social-media-blue-color-vector.jpg'); /* Ruta de la imagen de fondo */
+    background-size: cover; /* Ajustar la imagen al tamaño del contenedor */
+    background-position: center; /* Centrar la imagen */
+    background-repeat: no-repeat; /* Evitar repetir la imagen */
+   
+}
+
+.btn-red {
+    background-color: #dc3545; /* Color rojo de Bootstrap */
+    color: white; /* Texto blanco para contraste */
+    width: 100%; /* Ancho completo */
+    margin-top: 10px; /* Margen superior */
+    border: none; /* Sin borde */
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.8); /* Fondo semi-transparente del card */
+    padding: 20px; /* Espacio interno */
+}
